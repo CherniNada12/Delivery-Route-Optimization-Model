@@ -28,11 +28,10 @@ Le résultat est une **carte interactive générée avec Folium**, affichant :
 Voici la structure des fichiers du projet :  
 
 Delivery-Route-Optimization-Model/
-│
-├── main.py                 # Code principal du projet
-├── carte_vehicule.html     # Carte générée avec les itinéraires
-├── README.md               # Fichier de documentation
-└── requirements.txt        # Liste des dépendances Python
+
+- **main.py**                 # Code principal du projet
+- **carte_vehicule.html**     # Carte générée avec les itinéraires
+- **README.md**              # Fichier de documentation
 
 
 ---
