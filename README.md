@@ -62,6 +62,16 @@ Delivery-Route-Optimization-Model/
 
 
 🧩 Exemple de résultat
+## 🗺️ Exemple de carte générée
+
+Voici un aperçu du résultat après l’optimisation des trajets pour les véhicules.  
+Chaque couleur représente un véhicule différent, et les numéros indiquent l’ordre des livraisons.
+
+### 📍 Aperçu visuel
+<img src="images/carte véhicule.png" alt="Carte des itinéraires optimisés" width="700">
+
+### 🔗 Voir la carte interactive
+👉 [Ouvrir la carte interactive `carte_vehicule.html`](carte_vehicule.html)
 
 Les clients sont représentés par des marqueurs colorés selon le véhicule.
 
