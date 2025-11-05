@@ -63,7 +63,6 @@ Delivery-Route-Optimization-Model/
 
 
 
-🧩 Exemple de résultat
 ## 🗺️ Aperçu du résultat  
 
 Voici un aperçu de la carte générée après exécution du programme :  
@@ -91,6 +90,6 @@ Utiliser des algorithmes plus avancés (Ant Colony, Genetic Algorithm, etc.)
 Ajouter une interface graphique complète (Tkinter ou PyQt5)
 
 ## 👩‍💻 Auteur
-Nada Cherni
-Étudiante ingénieure en Data & Systèmes Décisionnels
-Passionnée par la Data Science, l’optimisation et l’analyse de données géospatiales.
+- **Nada Cherni**
+- **Étudiante ingénieure en Data & Systèmes Décisionnels**
+- **Passionnée par la Data Science, l’optimisation et l’analyse de données géospatiales.**
