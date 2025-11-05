@@ -27,7 +27,6 @@ Le résultat est une **carte interactive générée avec Folium**, affichant :
 
 Voici la structure des fichiers du projet :  
 
-```bash
 Delivery-Route-Optimization-Model/
 │
 ├── main.py                 # Code principal du projet
