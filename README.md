@@ -79,7 +79,7 @@ Les trajets sont reliés par des polylignes de couleurs différentes.
 
 L’entrepôt est ville (Sfax) .
 
-📈 Améliorations possibles
+## 📈 Améliorations possibles
 Intégrer des contraintes supplémentaires (capacité véhicule, temps de livraison, etc.)
 
 Déployer une interface web Flask/Django pour la visualisation dynamique
@@ -88,7 +88,7 @@ Utiliser des algorithmes plus avancés (Ant Colony, Genetic Algorithm, etc.)
 
 Ajouter une interface graphique complète (Tkinter ou PyQt5)
 
-👩‍💻 Auteur
+## 👩‍💻 Auteur
 Nada Cherni
 Étudiante ingénieure en Data & Systèmes Décisionnels
 Passionnée par la Data Science, l’optimisation et l’analyse de données géospatiales.
